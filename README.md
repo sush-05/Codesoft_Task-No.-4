@@ -67,7 +67,7 @@ Technical Implementation
 API Integration
 
 API Used: ExchangeRate-API
-Endpoint: https://api.exchangerate-api.com/v4/latest/{currency}
+Endpoint: https://api.exchangerate-api.com/v4/latest/
 Method: HTTP GET requests
 
 ---
